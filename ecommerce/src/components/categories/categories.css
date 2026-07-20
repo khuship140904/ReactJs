@@ -1,0 +1,26 @@
+.categories{
+    display: flex;
+    gap: 90px;
+    align-items: center;
+    border: 2px solid black;
+    padding: 10px;
+
+
+}
+
+.singleCati{
+    height: auto;
+    width: 300px;
+    text-indent: justify;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+}
